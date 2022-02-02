@@ -10,5 +10,5 @@
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/thi-tuong-le/)
 - 😄 Pronouns: *She/ Her*
 - 📄 Know about my previous research area: [Google Scholar](https://scholar.google.fr/citations?user=i3I1IxwAAAAJ&hl=fr&oi=sra)
-- 🌱 I’m currently learning **Data Analysis at Openclassroom (2,000 hours) & ENSAE-ENSAI**
+- 🌱 I’m currently learning **Data Analysis at Openclassroom & ENSAE-ENSAI (2,000 hours)**
 - ⚡ Fun fact: **I am a youtuber, runner, reader, and a proud Mom**
