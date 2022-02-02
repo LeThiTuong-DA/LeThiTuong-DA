@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Data Analysis (DA)**
 - 📝 I'm interested in **Data Analysis & Data Science**
-- 👯 I’m looking to collaborate on **Excel/VBA, SQL, R, Python, Tableau, and KNIME**
+- 👯 I’m looking to work as **a Data Analyst Junior or Data Scientist Junior**
 - 💬 Ask me about **Excel/VBA, SQL, R, Python, Tableau, and KNIME**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/thi-tuong-le/)
 - 😄 Pronouns: *She/ Her*
