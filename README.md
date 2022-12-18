@@ -4,7 +4,7 @@
 <h2 align="center">Here is What I am Working On! 👋</h2>
 
 - 🔭 I’m currently working on **Data Analysis (DA)**
-- 📝 I'm interested in **Data Analysis & Data Science**
+- 📝 I'm interested in **Data Analysis & Data Science** in pharmaceutical and clinical pharmacy fields
 - 👯 I’m looking to work as **a Data Analyst or Data Scientist**
 - 💬 Ask me about **Excel/VBA, SQL, R, Python, Tableau, and KNIME**
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/thi-tuong-le/)
