@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thi-Tuong</h1>
-<h3 align="center">a Data Analyst (DA) with a PhD in biotechnological processes</h3>
+<h3 align="center">a Data Analyst (DA) with a PhD in Engineering of processes, products and molecules</h3>
 
 <h2 align="center">Here is What I am Working On! 👋</h2>
 
